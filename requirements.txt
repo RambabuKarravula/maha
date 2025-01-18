@@ -1,0 +1,12 @@
+streamlit==1.32.0
+numpy==1.24.3
+openai==0.28.0
+sentence-transformers==2.2.2
+torch==2.1.0  # Changed from 2.2.0 to a more stable version
+typing-extensions==4.8.0
+pydantic==2.4.2
+faiss-cpu==1.7.4
+python-multipart==0.0.6
+transformers==4.30.2
+huggingface-hub==0.17.3
+pydantic-settings
